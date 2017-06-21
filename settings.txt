@@ -1,0 +1,10 @@
+#Settings   2017/06/20 20:49:54
+
+passWord=testpass
+showAllColourChannels=true
+editorYAxisVisible=true
+editorZAxisVisible=true
+editorXAxisVisible=true
+userName=testuser
+debugMode=false
+viewDistance=500
