@@ -1,7 +1,9 @@
 # Sandbox
-A Java 3D voxel based sandbox with dynamic worlds, mobs and more! This version is rather old and has been moved to C++.
+A Java 3D voxel based sandbox with dynamic worlds, mobs and more! This version is rather old and has been moved to C++. 
 
-![Photo](demo/bannerj1.png)
+This one has full 3D physics with terrain and objects which uses mesh data to make a custom collision mesh.
+
+Gallery:
 
 ![Photo](demo/bannerj2.png)
 
@@ -10,3 +12,5 @@ A Java 3D voxel based sandbox with dynamic worlds, mobs and more! This version i
 ![Photo](demo/bannerj4.png)
 
 ![Photo](demo/bannerj5.png)
+
+![Photo](demo/bannerj1.png)
