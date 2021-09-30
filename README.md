@@ -7,6 +7,8 @@ This project was my first OpenGL project and was worked on and off between Febur
 
 This one has full 3D physics with terrain and objects which uses mesh data to make a custom collision mesh.
 
+---
+
 ### Gallery:
 
 ![Photo](demo/bannerj2.png)
