@@ -1,4 +1,7 @@
-# Sandbox
+# <img src="demo/icon.png" width="50"> Auravyx (Java Voxel Game)
+
+---
+
 A Java 3D voxel based sandbox with dynamic worlds, mobs and more! This version is rather old and has been moved to C++. 
 This project was worked on and off between Feburary and July 2017, at which point I eventually moved on to C++.
 
